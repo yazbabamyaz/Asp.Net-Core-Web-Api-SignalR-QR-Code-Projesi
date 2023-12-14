@@ -19,6 +19,7 @@ SignalR ile istatistik verilerini çektik:
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/4.png"  height="250" />
 SignalR ile anlık mesajlaşma:
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/5.png"  height="250" />
+QR Code işlemi:
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/6.png"  height="250" />
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/7.png"  height="250" />
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/8.png"  height="250" />
