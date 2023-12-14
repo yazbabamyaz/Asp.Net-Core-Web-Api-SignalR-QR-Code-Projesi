@@ -14,8 +14,10 @@ Yapılacaklar: Program.cs içindeki servis kayıtlarının AutoFac ile gerçekle
 ---
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/1.png"  height="250" />
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/2.png"  height="250" />
+SignalR ile istatistik verilerini çektik:
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/3.png"  height="250" />
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/4.png"  height="250" />
+SignalR ile anlık mesajlaşma:
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/5.png"  height="250" />
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/6.png"  height="250" />
 <img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/7.png"  height="250" />
