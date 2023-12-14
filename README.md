@@ -11,4 +11,5 @@ Kullandığım Mimari-yöntem-kütüphane ve yaklaşımlar:
 8. SignalR ile uygulamamıza bol bol REAL-TİME fonksiyonellik kazandırdık.   
 ---
 Yapılacaklar: Program.cs içindeki servis kayıtlarının AutoFac ile gerçekleştirilmesi. 
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/1.png" width="250" height="200" />
+---
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/1.png" width="400" height="250" />
