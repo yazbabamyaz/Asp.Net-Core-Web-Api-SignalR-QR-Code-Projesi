@@ -12,12 +12,12 @@ Kullandığım Mimari-yöntem-kütüphane ve yaklaşımlar:
 ---
 Yapılacaklar: Program.cs içindeki servis kayıtlarının AutoFac ile gerçekleştirilmesi. 
 ---
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/1.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/2.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/3.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/4.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/5.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/6.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/7.png" width="400" height="250" />
-<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/8.png" width="400" height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/1.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/2.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/3.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/4.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/5.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/6.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/7.png"  height="250" />
+<img src="https://github.com/yazbabamyaz/Asp.Net-Core-Web-Api-SignalR-QR-Code-Projesi/blob/master/SignalRWebUI/wwwroot/ReadmeImages/8.png"  height="250" />
 
